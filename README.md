@@ -1,1 +1,1 @@
-# COVID19 Clinical Trials
+# COVID-19 Clinical Trials
